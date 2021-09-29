@@ -27,14 +27,14 @@ body {
   padding: 2em;
   line-height: 1.6;
   color: $black;
-  background: $pale-blue url("/images/pattern-background-desktop.svg") no-repeat
-    center top;
+  background: $pale-blue url("../images/pattern-background-desktop.svg")
+    no-repeat center top;
   background-size: contain;
   display: grid;
   place-content: center;
 
   @media screen and (max-width: 385px) {
-    background-image: url("/images/pattern-background-mobile.svg");
+    background-image: url("../images/pattern-background-mobile.svg");
   }
 }
 

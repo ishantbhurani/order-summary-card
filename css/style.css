@@ -15,7 +15,7 @@ body {
   padding: 2em;
   line-height: 1.6;
   color: #333333;
-  background: #e0e8ff url("/images/pattern-background-desktop.svg") no-repeat center top;
+  background: #e0e8ff url("../images/pattern-background-desktop.svg") no-repeat center top;
   background-size: contain;
   display: -ms-grid;
   display: grid;
@@ -24,7 +24,7 @@ body {
 
 @media screen and (max-width: 385px) {
   body {
-    background-image: url("/images/pattern-background-mobile.svg");
+    background-image: url("../images/pattern-background-mobile.svg");
   }
 }
 
