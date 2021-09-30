@@ -1,25 +1,47 @@
 # Order Summary Card
 
-## Demo
+## Table of contents
 
-- [Live](https://ishantbhurani.github.io/order-summary-card/)
-- [Codepen](https://codepen.io/ivanshaunt/full/ExXrZOG)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [Reference](#reference)
+  - [Font](#font)
+  - [Color](#color)
+- [Run Locally](#run-locally)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Credits](#credits)
 
-## Screenshots
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
+### Screenshots
 
 ![order summary card preview](https://user-images.githubusercontent.com/67356291/130325676-c85aa683-d494-4b31-9dc8-575733cc5561.png)
 
 ![order summary card mobile preview](https://user-images.githubusercontent.com/67356291/130325694-0ac91b08-d2f8-4492-becf-c9d3b27c51bd.png)
 
-## Tech Stack
+### Links
 
-**Client:** HTML, SCSS
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-component-using-html-scss-1utQ37fxG](https://www.frontendmentor.io/solutions/order-summary-card-component-using-html-scss-1utQ37fxG)
+- Live Site URL: [https://ishantbhurani.github.io/order-summary-card/](https://ishantbhurani.github.io/order-summary-card/)
+- CodePen URL: [https://codepen.io/ivanshaunt/full/ExXrZOG](https://codepen.io/ivanshaunt/full/ExXrZOG)
 
-## Font Reference
+## Reference
+
+### Font
 
 - [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 
-## Color Reference
+### Color
 
 | Color            | Hex                                                                                      |
 | ---------------- | ---------------------------------------------------------------------------------------- |
@@ -60,6 +82,20 @@ E.g.
 ```bash
   google-chrome index.html
 ```
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- [SASS](https://sass-lang.com/) - CSS pre-processor
+- Flexbox
+- CSS Grid
+
+## Author
+
+- Frontend Mentor - [@ishantbhurani](https://www.frontendmentor.io/profile/ishantbhurani)
+- Twitter - [@IShaunt](https://twitter.com/IShaunt)
 
 ## Credits
 
